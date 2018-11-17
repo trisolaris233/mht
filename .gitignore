@@ -1,0 +1,6 @@
+node_moudles/
+.vscode/
+
+*.html
+*.json
+*.md
